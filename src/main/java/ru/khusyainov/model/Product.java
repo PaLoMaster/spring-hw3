@@ -1,8 +1,5 @@
 package ru.khusyainov.model;
 
-import org.springframework.context.annotation.Scope;
-import org.springframework.stereotype.Component;
-
 public class Product {
     private int id;
     private String title;
